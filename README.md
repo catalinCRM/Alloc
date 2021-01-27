@@ -1,1 +1,2 @@
-# Implements another version of malloc/realloc/calloc/free and the program use sbrk to allocate memory from the kernel.
+# Implements another version of malloc/realloc/calloc/free 
+The program use sbrk to allocate memory from the kernel.
